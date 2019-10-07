@@ -1,4 +1,4 @@
-# Terraform to deploy a Windows ADO build agent
+# Terraform to deploy a Windows testing VM
 
 
 ## Naming standards
